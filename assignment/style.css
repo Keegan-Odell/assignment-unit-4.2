@@ -1,0 +1,26 @@
+header {
+  background-color: green;
+}
+
+.info {
+  margin: auto;
+  text-align: center;
+  height: 65vh;
+  width: 60vw;
+  border: 3px black solid;
+}
+
+h2 {
+  background-color: beige;
+  color: blueviolet;
+}
+
+img {
+  height: 50vh;
+  width: 50vw;
+}
+
+h3 {
+  background-color: purple;
+  color: red;
+}
